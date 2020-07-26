@@ -1,4 +1,4 @@
-This responsive landing page is created using with the help of HTML, CSS, & Bootstrap 4 to improve skills as a part of 
+This responsive landing page is created using with the help of `html`, `css` & `bootstrap 4` to improve skills as a part of 
 practise during "the-complete-web-development-bootcamp" course by Dr. Angela Yu
 
 # tindog - Tinder for Dogs
